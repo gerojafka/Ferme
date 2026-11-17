@@ -1,0 +1,640 @@
+{
+  "version": 4,
+  "language": "fr",
+  "coins": 5698,
+  "level": 20,
+  "xp": 0,
+  "day": 453,
+  "dayTime": 119.49700000000372,
+  "last": 1794217922816,
+  "seed": "wheat",
+  "seeds": {
+    "wheat": 297,
+    "carrot": 106,
+    "tomato": 150,
+    "strawberry": 120,
+    "pumpkin": 55,
+    "sunflower": 25
+  },
+  "goods": {
+    "wheat": 743,
+    "carrot": 348,
+    "tomato": 38,
+    "strawberry": 0,
+    "pumpkin": 39,
+    "sunflower": 63,
+    "egg": 0,
+    "milk": 0,
+    "wool": 0,
+    "bread": 1,
+    "soup": 0,
+    "jam": 1,
+    "cheese": 0,
+    "manure": 0,
+    "feather": 0
+  },
+  "plots": [
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    },
+    {
+      "state": "tilled"
+    }
+  ],
+  "unlocked": 96,
+  "buildings": {
+    "barn": 20,
+    "silo": 20,
+    "greenhouse": 20,
+    "coop": 12,
+    "shop": 10,
+    "stable": 10,
+    "sheepfold": 9,
+    "bullpen": 12,
+    "pigpen": 7,
+    "pond": 8
+  },
+  "animals": [
+    {
+      "type": "hen",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "hen",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "cow",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "cow",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "sheep",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "cow",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "hen",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "cow",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "hen",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "hen",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "sheep",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "sheep",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "cow",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "sheep",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "pig",
+      "feed": 359.8480000000007,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "pig",
+      "feed": 359.9160000000008,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "pig",
+      "feed": 359.2890000000007,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "pig",
+      "feed": 359.4250000000006,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "pig",
+      "feed": 359.03100000000086,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "sheep",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "bull",
+      "feed": 18.789000000000954,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "bull",
+      "feed": 20.708000000000936,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "bull",
+      "feed": 21.820000000000846,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "bull",
+      "feed": 23.337000000000728,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "bull",
+      "feed": 25.879000000000758,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "bull",
+      "feed": 27.693000000000836,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "bull",
+      "feed": 29.337000000000728,
+      "progress": 0,
+      "ready": 1
+    },
+    {
+      "type": "duck",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "duck",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "duck",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "duck",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "duck",
+      "feed": 0,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "hen",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    },
+    {
+      "type": "hen",
+      "feed": 151.6626000000001,
+      "progress": 0,
+      "ready": 3
+    }
+  ],
+  "craft": {
+    "key": "bread",
+    "remaining": 0
+  },
+  "tools": {
+    "tilling": true,
+    "sowing": true,
+    "watering": true,
+    "basket": true
+  },
+  "fertilizer": 77,
+  "stats": {
+    "plant": 2502,
+    "water": 509,
+    "harvest": 2504,
+    "sell": 5480,
+    "craft": 4,
+    "till": 93
+  },
+  "daily": {
+    "plant": 0,
+    "harvest": 0,
+    "sell": 0,
+    "craft": 0
+  },
+  "claimed": [],
+  "tutorial": 5,
+  "sound": false,
+  "music": false,
+  "notified": [],
+  "recoveryDay": 0,
+  "orders": {
+    "day": 453,
+    "list": [
+      {
+        "id": "453-0-404744",
+        "client": "L’école du village",
+        "items": {
+          "wheat": 6,
+          "jam": 2
+        },
+        "coins": 740,
+        "xp": 62,
+        "done": false
+      },
+      {
+        "id": "453-1-534167",
+        "client": "Lucie et Tom",
+        "items": {
+          "strawberry": 7,
+          "cheese": 4,
+          "milk": 2
+        },
+        "coins": 1755,
+        "xp": 133,
+        "done": false
+      },
+      {
+        "id": "453-2-133120",
+        "client": "Le chef Paul",
+        "items": {
+          "wool": 3,
+          "tomato": 8
+        },
+        "coins": 780,
+        "xp": 62,
+        "done": false
+      }
+    ]
+  },
+  "debt": 0,
+  "upkeepOn": true,
+  "ledger": {
+    "day": 453,
+    "inc": 0,
+    "exp": 0,
+    "rep": 0,
+    "hist": [
+      {
+        "d": 451,
+        "inc": 0,
+        "exp": 17760,
+        "up": 1281,
+        "off": 0
+      },
+      {
+        "d": 452,
+        "inc": 0,
+        "exp": 47890,
+        "up": 1363,
+        "off": 0
+      }
+    ]
+  },
+  "paused": true
+}
